@@ -80,7 +80,7 @@ const cyclicRotateInBuilt = (n, arr1) => {
 
 //cyclicRotateInBuilt(3, [1, 2, 3, 4, 5]);
 
-// Without Using array methods
+// Without Using array methods with js
 function cyclicRotate(arr) {
   let x = arr[arr.length - 1];
   for (let i = arr.length - 1; i > 0; i--) {
