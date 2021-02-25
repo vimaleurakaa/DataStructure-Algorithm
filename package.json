@@ -24,11 +24,11 @@
       ]
     },
     "options": {
-      "development": true
+      "development": false
     }
   },
   "author": "Vimal Thanikachalam",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "node-forge": "^0.10.0",
     "parcel-bundler": "^1.12.4",
