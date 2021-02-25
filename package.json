@@ -1,0 +1,16 @@
+{
+  "name": "datastructure-algorithm",
+  "version": "1.0.0",
+  "description": "This repository contains JavaScript based examples of many popular algorithms and data structures.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "author": "Vimal Thanikachalam",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.32.8"
+  }
+}
