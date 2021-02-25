@@ -1,5 +1,8 @@
 /*1. Sort an array of 0s, 1s and 2s
+
 Given an array A[] consisting 0s, 1s and 2s. The task is to write a function that sorts the given array. The functions should put all 0s first, then all 1s and all 2s in last.
+
+
 Input: {0, 1, 2, 0, 1, 2}
 Output: {0, 0, 1, 1, 2, 2} */
 
@@ -80,7 +83,8 @@ const cyclicRotateInBuilt = (n, arr1) => {
 
 //cyclicRotateInBuilt(3, [1, 2, 3, 4, 5]);
 
-// Without Using array methods with js
+
+// Without Using array methods
 function cyclicRotate(arr) {
   let x = arr[arr.length - 1];
   for (let i = arr.length - 1; i > 0; i--) {
