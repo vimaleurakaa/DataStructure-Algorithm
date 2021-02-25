@@ -28,7 +28,7 @@
     }
   },
   "author": "Vimal Thanikachalam",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "node-forge": "^0.10.0",
     "parcel-bundler": "^1.12.4",
