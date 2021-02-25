@@ -14,4 +14,6 @@ import * as _array_module_ from "../components/arrayAssesment";
 
 //-------------------Assignment_Array_questions----------------------
 
+console.log(_array_module_.cyclicRotateTimes([1, 2, 3, 4, 5], 2));
+
 //-------------------Assignment_Array_questions----------------------
